@@ -17,5 +17,5 @@ Eg for Current ratio, Index and match formulas lookup for Current Assets and Cur
 ![staging](https://github.com/Driplytics/Stock-Analytics-KPI-/blob/main/NFLX%20report%20staging.png)
 
 ### KPI
-Here, each KPI measure is linked to the calculated components in the staging sheet.  And Conditional Formatting uses predetermined rules to indicate whether a KPI is above or below the specified benchmark (Green color indicator for a healthy/above benchmark, and red color indicator for poor/unhealthy benchmark).
+Here, each KPI measure is linked to the calculated components in the staging sheet. Conditional Formatting uses predetermined rules to indicate whether a KPI is above or below the specified benchmark (Green color indicator for a healthy/above benchmark, and red color indicator for poor/unhealthy benchmark).
 ![](https://github.com/Driplytics/Stock-Analytics-KPI-/blob/main/NFLX%20KPI%20dashboard.png)
