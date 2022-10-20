@@ -14,6 +14,7 @@ Input hardcoded financial data (Balance sheet, Income statement and Cashflow sta
 ### Staging
 This stage works with automated sheet (no input from the Analyst is required in this sheet). Here, Excel Index and Match Formulas takes the required components from the Financial Data sheet. The specified components are calculated to get the various KPI. 
 Eg for Current ratio, Index and match formulas lookup for Current Assets and Current liabilities from the financial data sheet and perform calculations on them to get the Quick Ratio KPI. 
+![staging](https://github.com/Driplytics/Stock-Analytics-KPI-/blob/main/NFLX%20report%20staging.png)
 
 ### KPI
 Here, each KPI measure is linked to the calculated components in the staging sheet.  And Conditional Formatting uses predetermined rules to indicate whether a KPI is above or below the specified benchmark (Green color indicator for a healthy/above benchmark, and red color indicator for poor/unhealthy benchmark).
