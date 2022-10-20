@@ -9,7 +9,7 @@ Here are the various stages or process involved to achieve the final KPI measure
 
 ### Input
 Input hardcoded financial data (Balance sheet, Income statement and Cashflow statement) on at the specified components on the Financial Data sheet. In this case, Netflix (Ticker symbol: NFLX) financial data is inputted on the various items specified on each statement.  
-
+![Financial Data](https://github.com/Driplytics/Stock-Analytics-KPI-/blob/main/NFLX%20Financial%20Data.png)
 
 ### Staging
 This stage works with automated sheet (no input from the Analyst is required in this sheet). Here, Excel Index and Match Formulas takes the required components from the Financial Data sheet. The specified components are calculated to get the various KPI. 
