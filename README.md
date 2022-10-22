@@ -1,5 +1,5 @@
 # Stock-Analytics-KPI-
-A Semi-automated stock analytics dashboard (Just put a Financial Data)
+A Semi-automated stock analytics dashboard (Just put your Financial Data!)
 
 ## Objective
 My goal here is to reduce the hassle involved in Financial Analysis of a business, by helping the analyst focus on the important components at a glance, so he could perform root cause analysis on the KPIs that are below the required benchmark while at same time noting the healthy factors of the company by looking at KPI above the benchmark.
